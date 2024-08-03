@@ -6,6 +6,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AParesFernandez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<div class="descripcion-sobremi">
+            <p>I am a cheerful, empathetic, and very patient individual.<br>
+                I enjoy learning new things every day,
+                as well as learning from others,<br>
+                working in teams, and making the most of every positive experience,<br>
+                turning adversities into learning opportunities.<br>
+                I am committed to constant growth and expanding my horizons.<br>
+                I firmly believe that if I give my best effort today,<br>
+                I will be able to surpass my limits tomorrow.
+            </p>
+</div>
+
 ###
 
 <img align="right" height="150" src="/workflows/imagen kawai para mi perfil de github.gif"  />
