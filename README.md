@@ -1,11 +1,6 @@
 <h2 align="left">Hi 👋! My name is Amanda Pares, from Chile</h2>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AParesFernandez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 <div class="descripcion-sobremi">
             <p>I am a cheerful, empathetic, and very patient individual.<br>
                 I enjoy learning new things every day,
@@ -17,6 +12,11 @@
                 I will be able to surpass my limits tomorrow.
             </p>
 </div>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AParesFernandez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 
 ###
 
