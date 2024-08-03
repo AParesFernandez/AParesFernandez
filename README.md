@@ -21,7 +21,7 @@
 
 ###
 
-<img align="right" height="300" width="300" src="/imagen kawai para mi perfil de github.gif"  />
+<img align="right" height="250" width="250" src="/imagen kawai para mi perfil de github.gif"  />
 
 ###
 
