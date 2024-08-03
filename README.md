@@ -20,7 +20,7 @@
 
 ###
 
-<img align="center" height="150" src="/workflows/imagen kawai para mi perfil de github.gif"  />
+<img align="right" height="300" width="300" src="/workflows/imagen kawai para mi perfil de github.gif"  />
 
 ###
 
