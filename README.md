@@ -50,7 +50,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="30" alt="atom logo"  />
   <img width="12" />
-  <img width="12" height="30" alt="image" src="https://github.com/user-attachments/assets/902e0f80-d78b-45b0-8c7e-39cc4788432d" />
+  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/902e0f80-d78b-45b0-8c7e-39cc4788432d" />
 </div>
 
 ###
